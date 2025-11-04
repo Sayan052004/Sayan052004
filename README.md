@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Coders my name is Sayan & Completed my graduation in BCA . <br> I am passionate about Full Stack development & Data Science <br><br>
+Hi Coders my name is Sayan & i am Completed my graduation in BCA . <br> I am passionate about Full Stack development & Data Science <br><br>
 
 
 ## 🌐 Socials:
