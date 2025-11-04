@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Coders this is Sayan & i am very excited to share my GitHub journey <br> I am passionate about Software development & Data Science<br>Complete my graduation in BCA<br>
+Hi Coders my name is Sayan & Completed my graduation in BCA . <br> I am passionate about Full Stack development & Data Science <br><br>
 
 
 ## 🌐 Socials:
