@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone my name is Sayan Halder a Computer Science Student Currently pursuing Msc in CS. <br> I am passionate about Full Stack development & Data Science <br><br>
+Hello everyone my name is Sayan Halder a Computer Science Student Currently pursuing Msc . <br> I am passionate about Full Stack development & Data Science <br><br>
 
 
 ## 🌐 Socials:
